@@ -42,6 +42,7 @@ body{
 .button2{
   float: right;
   margin-right: 50px;
+  margin-bottom: 50px;
 }
 .button:hover{
   background-color: #fff;
@@ -132,12 +133,13 @@ h2 {
     display: inline-block;
   }
   .footer{
-    height: 100px;
+    height: 130px;
     background-color: #41c1d1;
     font-family: sans-serif;
     display: inline-block;
     justify-content: center;
     text-align: center;
+    width: 100%;
   }
   .get-worked{
     height: 200px;
